@@ -1,5 +1,8 @@
 # Magical Dependency R Shiny App
+
 Builds a model to predict 5th Edition Dungeons and Dragons Magical Dependency classes and deploys the results via an R Shiny App on shinyapps.io
+
+## Code
 
 ### model_build.R
 Builds the continuation ratio model that is used in the R Shiny app to predict probabilities of character magical dependency classes.
