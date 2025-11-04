@@ -10,7 +10,7 @@ Builds the continuation ratio model that is used in the R Shiny app to predict p
 - Other models were considered for this project and their code is not shown in this final output
 
 ### app.R
-Builds the actual R Shiny app using just rshiny
+Builds the actual R Shiny app using rshiny
 
 ### app_deploy.R
 Deploys the shiny app to shinyapps.io. This code assumes you have already gone through the steps to set up your shinyapps.io account using the following instructions
