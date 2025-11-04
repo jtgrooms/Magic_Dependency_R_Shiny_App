@@ -1,4 +1,4 @@
-# Magical Dependency Shiny App
+# Magical Dependency R Shiny App
 Builds a model to predict 5th Edition Dungeons and Dragons Magical Dependency classes and deploying the results via an R Shiny App on shinyapps.io
 
 ### model_build.R
